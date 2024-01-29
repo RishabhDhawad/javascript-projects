@@ -1,8 +1,11 @@
-.ontainer {
-  width: 575px;
-  height: 825px;
+.container {
   background-color: #797978;
-  padding-left: 30px;
+  align-items: center;
+  border: 5px solid;
+  margin: auto;
+  text-align: center;
+  height: 600px;
+  width: 500px;
 }
 #height,
 #weight {
@@ -20,7 +23,7 @@
   font-size: 35px;
   margin-left: 90px;
   margin-top: 20px;
-  color: rgb(241, 241, 241);
+  color: black;
 }
 
 button {
@@ -34,12 +37,10 @@ button {
   color: #212121;
   text-decoration: none;
   border: 2px solid #212121;
-
   font-size: 25px;
 }
 
 h1 {
   padding-left: 15px;
   padding-top: 25px;
-  
 }
