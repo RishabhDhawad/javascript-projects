@@ -47,7 +47,7 @@ h1 {
 
 .projects {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .project-link {
